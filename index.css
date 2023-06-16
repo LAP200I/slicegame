@@ -267,3 +267,15 @@ a {
         opacity: 1;
     }
 }
+
+.back {
+    font-size: 2rem;
+    color: #fff !important;
+    z-index: 10000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* padding-left: 0; */
+    width: min-content;
+
+}
